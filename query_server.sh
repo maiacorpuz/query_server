@@ -12,7 +12,6 @@ password
 vim ~/.bashrc
 mkdir query_server
 export PATH=$PATH:$HOME/query_server
-$git clone https://github.com/maiacorpuz/query_server.git
 :wq
 cd query_server
 git clone https://github.com/maiacorpuz/query_server.git
