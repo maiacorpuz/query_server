@@ -1,5 +1,2 @@
 # query_server
-#!/usr/bin/bash
-echo $HOSTNAME
-VARIABLE="I am on $HOSTNAME"
-echo $VARIABLE
+A "simple" guide to downloading a .gtf file from NCBI Entrez website and work on.
